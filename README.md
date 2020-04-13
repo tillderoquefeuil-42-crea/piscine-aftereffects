@@ -1,2 +1,2 @@
-# piscine-aftereffect
-Several advanced exercises in after effect of the 42 creation course.
+# piscine-aftereffects
+Several advanced exercises in after effects of the 42 creation course.
